@@ -1,0 +1,6 @@
+# Run
+```
+$ g++ FileSystemUtil.cpp -o FileSystemUtil
+$ ./FileSystemUtil "/home\\wwwd/test/"
+/home/wwwd/test
+```
